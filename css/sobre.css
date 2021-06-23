@@ -1,0 +1,22 @@
+.interna_sobre {
+    background: url("../img/bg-sobre.jpg") no-repeat center;
+    background-size: cover;
+}
+.misssa_sobre {
+    padding-top: 60px;
+}
+.misssa_sobre p {
+    font-size: 18px;
+    line-height: 25px;
+    margin-bottom: 1em;
+    padding-right: 60px;
+}
+.misssa_sobre ul li {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 18px;
+    line-height: 19px;
+    margin-bottom: 16px;
+}
+.foto-equipe {
+    padding-top: 20px;
+}
