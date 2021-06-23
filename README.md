@@ -1,7 +1,7 @@
 # BikCraft- Site 
 
 # Tecnologias 
-# HTML CSS
+# HTML CSS Javascript
 
 # Curso Origamid Desenvolvedor Web 2021
 
